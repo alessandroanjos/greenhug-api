@@ -1,0 +1,7 @@
+node_modules
+.idea
+npm-debug.log
+data
+.DS_Store
+db_config.bat
+bin/
